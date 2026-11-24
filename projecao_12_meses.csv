@@ -1,0 +1,13 @@
+mes,aluguel_mensal,parcela_taxa_contratual,total_previsto_mes,status_taxa
+1,1140.00,400.00,1540.00,Parcela 1/5
+2,1140.00,400.00,1540.00,Parcela 2/5
+3,1140.00,400.00,1540.00,Parcela 3/5
+4,1140.00,400.00,1540.00,Parcela 4/5
+5,1140.00,400.00,1540.00,Parcela 5/5
+6,1140.00,0.00,1140.00,Taxa quitada
+7,1140.00,0.00,1140.00,Taxa quitada
+8,1140.00,0.00,1140.00,Taxa quitada
+9,1140.00,0.00,1140.00,Taxa quitada
+10,1140.00,0.00,1140.00,Taxa quitada
+11,1140.00,0.00,1140.00,Taxa quitada
+12,1140.00,0.00,1140.00,Taxa quitada
